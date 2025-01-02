@@ -1,0 +1,1 @@
+The SQL query uses a subquery that returns multiple rows when only one row is expected. This can lead to unexpected results or errors, depending on the database system.
